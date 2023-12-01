@@ -1,5 +1,3 @@
-## Next.js App Router Course - Starter
+This project is a dashboard web app has been developed by Next js. I used zod for form validations, tailwindcss for styling and typescript for type checking. This web app is a nextjs dashboard web app that authentication and authorization and has been developed very minimal with invoices overview and search and mutation features.
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Thank you for review
